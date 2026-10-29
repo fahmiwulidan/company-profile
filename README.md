@@ -53,10 +53,10 @@
 
 ```text
 company-profile/
-├── index.html        # Berkas utama struktur halaman web
-├── style.css         # Tata letak (layout) dan gaya tampilan CSS
+├── index.html       # Berkas utama struktur halaman web
+├── style.css        # Tata letak (layout) dan gaya tampilan CSS
 ├── script.js        # Logika interaktif dan skrip antarmuka
-└── README.md         # Dokumentasi utama repositori
+└── README.md        # Dokumentasi utama repositori
 ```
 
 ---
