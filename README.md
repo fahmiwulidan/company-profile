@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Vellora Digital — Company Profile</h1>
+  <h1>Vellora Digital - Company Profile</h1>
   <p><b>Platform Website Profile Perusahaan, Landing Page, dan Jasa Pembuatan Web</b></p>
 
   [![Vercel Deployment](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://velloradigital.vercel.app)
